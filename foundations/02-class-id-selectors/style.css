@@ -1,4 +1,14 @@
 p {
     background-color: pink;
-    
+    font-family: Verdana, sans-serif, 'DejaVu Sans';
+    font-size: 24px;
+}
+#two {
+    color: blue;
+    font-size: 36px;
+}
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
